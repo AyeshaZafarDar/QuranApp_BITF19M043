@@ -34,6 +34,7 @@ public class QuranActivity extends AppCompatActivity implements View.OnClickList
         //binding of activity
         setContentView(R.layout.activity_quran);
 
+        // binding of object with physical attributes
         btnext = findViewById(R.id.btnnext);
         btpre = findViewById(R.id.btnprev);
         btsearch = findViewById(R.id.search);
