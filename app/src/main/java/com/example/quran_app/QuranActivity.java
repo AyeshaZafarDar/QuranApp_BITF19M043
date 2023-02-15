@@ -31,6 +31,7 @@ public class QuranActivity extends AppCompatActivity implements View.OnClickList
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        //binding of activity
         setContentView(R.layout.activity_quran);
 
         btnext = findViewById(R.id.btnnext);
