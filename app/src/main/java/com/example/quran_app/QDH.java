@@ -151,6 +151,7 @@ public class QDH {
             6336,
             6342,
     };
+
     public int[] surahAyatCount = {
             7,
             286,

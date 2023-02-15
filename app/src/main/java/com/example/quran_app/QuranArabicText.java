@@ -3,6 +3,7 @@ package com.example.quran_app;
 import java.util.List;
 
 public class QuranArabicText {
+    //Quran Data Stored in an array
     public String[] QuranArabicText = new String[]
             {
                     "بِسۡمِ اللّٰہِ الرَّحۡمٰنِ الرَّحِیۡمِ",
