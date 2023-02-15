@@ -11,10 +11,12 @@ import android.widget.TextView;
 public class QuranActivity extends AppCompatActivity implements View.OnClickListener{
 
     /* Objects */
+    // buttons for next previous and search
     public Button btnext;
     public Button btpre;
     public Button btsearch;
 
+//Edit text views for surat and ayat number
     public EditText txts;
     public EditText txta;
 
