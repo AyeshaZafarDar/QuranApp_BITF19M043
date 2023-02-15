@@ -19,7 +19,7 @@ public class QuranActivity extends AppCompatActivity implements View.OnClickList
 //Edit text views for surat and ayat number
     public EditText txts;
     public EditText txta;
-
+// textView to show the quran verse
     public TextView txtresult;
 
     public int Ayat_num;
